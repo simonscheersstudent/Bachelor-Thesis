@@ -1,4 +1,4 @@
-The project contains the file: Pre_Processing_and_modeling.R which contains all needed preprocessing steps as well as some first modeling approaches.
+The project contains the file: Data_Preparation_and_Modeling_Final.R which contains all needed preprocessing steps as well as some first modeling approaches.
 Furthermore it contains the data of each game filtered on the event type shot without the engineered features in the data folder. 
 In the merged data folder are all the matches merged in one csv.
 And the feature_engineered_files folder contains a file with all the merged data with engineered features.
